@@ -41,4 +41,4 @@ AtliQ Hardware, a growing company in the PC and accessories industry, aims to ex
 ## How to Access the Dashboard
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/GaneshMandre/Business_Insights_360.git
+   https://github.com/GaneshMandre/Business_Insights_360.git
